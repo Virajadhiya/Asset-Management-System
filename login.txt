@@ -1,0 +1,9 @@
+🔗 Public URL: https://happy-jars-bake.loca.lt
+
+(If localtunnel shows a "Tunnel Password / Endpoint IP" prompt on first visit, enter: 152.59.38.186 and click Click to Submit)
+
+Demo Login Credentials:
+Admin: admin / admin123
+Department Head: dept_head / dept123
+Executive Engineer: engineer / eng123
+Inspector: inspector / insp123
